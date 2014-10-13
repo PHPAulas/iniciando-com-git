@@ -1,1 +1,5 @@
-echo '123';
+<?php
+
+echo aaaaaa
+
+aaaaaaa
