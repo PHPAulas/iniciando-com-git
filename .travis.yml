@@ -1,4 +1,4 @@
 language: php
 php:
   - "5.5"
-script: php --syntax-check resultado/*.php
+script: php --syntax-check resultado/index.php
